@@ -12,4 +12,4 @@ Minha primeira página web, criado durante a disciplina de Linguagem de Marcaç�
 * MARKDOWN
 
 ## Autor
-[Matheus Barbosa]()
+[Matheus Barbosa](https://www.linkedin.com)
